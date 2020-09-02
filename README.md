@@ -23,3 +23,7 @@ python3 Путь_к_файлу/rhino_demo_file.py --input_video_file_path Пут
 ```
 python3 demo/python/rhino_demo_file.py --input_video_file_path "video1.mp4" --context_file_path ./resources/contexts/linux/classdetect_linux.rhn
 ```
+
+## Или:
+# Создаешь вирутальное окружение
+# Запускаешь requrements.sh
